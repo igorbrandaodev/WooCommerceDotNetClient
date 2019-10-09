@@ -1,0 +1,8 @@
+C:\Users\igor\Documents\MEGA\Trabalho\Code\IntegradorWoocommerce\bin\Debug\WooCommerceDotNetClient.exe.config
+C:\Users\igor\Documents\MEGA\Trabalho\Code\IntegradorWoocommerce\bin\Debug\WooCommerceDotNetClient.exe
+C:\Users\igor\Documents\MEGA\Trabalho\Code\IntegradorWoocommerce\bin\Debug\WooCommerceDotNetClient.pdb
+C:\Users\igor\Documents\MEGA\Trabalho\Code\IntegradorWoocommerce\obj\Debug\WooCommerceDotNetClient.csprojAssemblyReference.cache
+C:\Users\igor\Documents\MEGA\Trabalho\Code\IntegradorWoocommerce\obj\Debug\WooCommerceDotNetClient.csproj.CoreCompileInputs.cache
+C:\Users\igor\Documents\MEGA\Trabalho\Code\IntegradorWoocommerce\obj\Debug\WooCommerceDotNetClient.csproj.CopyComplete
+C:\Users\igor\Documents\MEGA\Trabalho\Code\IntegradorWoocommerce\obj\Debug\WooCommerceDotNetClient.exe
+C:\Users\igor\Documents\MEGA\Trabalho\Code\IntegradorWoocommerce\obj\Debug\WooCommerceDotNetClient.pdb

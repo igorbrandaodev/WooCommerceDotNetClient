@@ -1,0 +1,54 @@
+C:\Users\igor\source\repos\IntegradorWoocommerce\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.csprojAssemblyReference.cache
+C:\Users\igor\source\repos\IntegradorWoocommerce\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.csproj.CoreCompileInputs.cache
+C:\Users\igor\source\repos\IntegradorWoocommerce\IntegradorWoocommerce\bin\Debug\IntegradorWoocommerce.exe.config
+C:\Users\igor\source\repos\IntegradorWoocommerce\IntegradorWoocommerce\bin\Debug\IntegradorWoocommerce.exe
+C:\Users\igor\source\repos\IntegradorWoocommerce\IntegradorWoocommerce\bin\Debug\IntegradorWoocommerce.pdb
+C:\Users\igor\source\repos\IntegradorWoocommerce\IntegradorWoocommerce\bin\Debug\WooCommerce.NET.dll
+C:\Users\igor\source\repos\IntegradorWoocommerce\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.csproj.CopyComplete
+C:\Users\igor\source\repos\IntegradorWoocommerce\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.exe
+C:\Users\igor\source\repos\IntegradorWoocommerce\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.pdb
+C:\Users\igor\Desktop\Projetos\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\bin\Debug\IntegradorWoocommerce.exe.config
+C:\Users\igor\Desktop\Projetos\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\bin\Debug\IntegradorWoocommerce.exe
+C:\Users\igor\Desktop\Projetos\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\bin\Debug\IntegradorWoocommerce.pdb
+C:\Users\igor\Desktop\Projetos\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\bin\Debug\WooCommerce.NET.dll
+C:\Users\igor\Desktop\Projetos\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.csprojAssemblyReference.cache
+C:\Users\igor\Desktop\Projetos\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.csproj.CoreCompileInputs.cache
+C:\Users\igor\Desktop\Projetos\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.csproj.CopyComplete
+C:\Users\igor\Desktop\Projetos\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.exe
+C:\Users\igor\Desktop\Projetos\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.pdb
+C:\Users\igor\Desktop\e-Commerce%20Integra%C3%A7%C3%A3o\MagentoClient\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.exe
+C:\Users\igor\Desktop\e-Commerce%20Integra%C3%A7%C3%A3o\MagentoClient\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.pdb
+C:\Users\igor\Desktop\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\bin\Debug\IntegradorWoocommerce.exe.config
+C:\Users\igor\Desktop\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\bin\Debug\IntegradorWoocommerce.exe
+C:\Users\igor\Desktop\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\bin\Debug\IntegradorWoocommerce.pdb
+C:\Users\igor\Desktop\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\bin\Debug\WooCommerce.NET.dll
+C:\Users\igor\Desktop\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.csproj.CoreCompileInputs.cache
+C:\Users\igor\Desktop\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.csproj.CopyComplete
+C:\Users\igor\Desktop\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.exe
+C:\Users\igor\Desktop\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.pdb
+C:\Users\igor\Desktop\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.csprojAssemblyReference.cache
+C:\Users\igor\Documents\MEGA\Trabalho\Code\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\bin\Debug\IntegradorWoocommerce.exe.config
+C:\Users\igor\Documents\MEGA\Trabalho\Code\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\bin\Debug\IntegradorWoocommerce.exe
+C:\Users\igor\Documents\MEGA\Trabalho\Code\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\bin\Debug\IntegradorWoocommerce.pdb
+C:\Users\igor\Documents\MEGA\Trabalho\Code\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\bin\Debug\WooCommerce.NET.dll
+C:\Users\igor\Documents\MEGA\Trabalho\Code\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.csprojAssemblyReference.cache
+C:\Users\igor\Documents\MEGA\Trabalho\Code\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.csproj.CoreCompileInputs.cache
+C:\Users\igor\Documents\MEGA\Trabalho\Code\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.csproj.CopyComplete
+C:\Users\igor\Documents\MEGA\Trabalho\Code\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.exe
+C:\Users\igor\Documents\MEGA\Trabalho\Code\e-Commerce Middleware\MagentoClient\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.pdb
+C:\Users\igor\Documents\MEGA\Trabalho\Code\e-Commerce Middleware\IntegradorEcommerceErp\IntegradorWoocommerce\bin\Debug\IntegradorWoocommerce.exe.config
+C:\Users\igor\Documents\MEGA\Trabalho\Code\e-Commerce Middleware\IntegradorEcommerceErp\IntegradorWoocommerce\bin\Debug\IntegradorWoocommerce.exe
+C:\Users\igor\Documents\MEGA\Trabalho\Code\e-Commerce Middleware\IntegradorEcommerceErp\IntegradorWoocommerce\bin\Debug\IntegradorWoocommerce.pdb
+C:\Users\igor\Documents\MEGA\Trabalho\Code\e-Commerce Middleware\IntegradorEcommerceErp\IntegradorWoocommerce\bin\Debug\WooCommerce.NET.dll
+C:\Users\igor\Documents\MEGA\Trabalho\Code\e-Commerce Middleware\IntegradorEcommerceErp\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.csprojAssemblyReference.cache
+C:\Users\igor\Documents\MEGA\Trabalho\Code\e-Commerce Middleware\IntegradorEcommerceErp\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.csproj.CoreCompileInputs.cache
+C:\Users\igor\Documents\MEGA\Trabalho\Code\e-Commerce Middleware\IntegradorEcommerceErp\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.csproj.CopyComplete
+C:\Users\igor\Documents\MEGA\Trabalho\Code\e-Commerce Middleware\IntegradorEcommerceErp\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.exe
+C:\Users\igor\Documents\MEGA\Trabalho\Code\e-Commerce Middleware\IntegradorEcommerceErp\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.pdb
+C:\Users\igor\Documents\MEGA\Trabalho\Code\IntegradorWoocommerce\bin\Debug\IntegradorWoocommerce.exe.config
+C:\Users\igor\Documents\MEGA\Trabalho\Code\IntegradorWoocommerce\bin\Debug\IntegradorWoocommerce.exe
+C:\Users\igor\Documents\MEGA\Trabalho\Code\IntegradorWoocommerce\bin\Debug\IntegradorWoocommerce.pdb
+C:\Users\igor\Documents\MEGA\Trabalho\Code\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.csproj.CoreCompileInputs.cache
+C:\Users\igor\Documents\MEGA\Trabalho\Code\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.csproj.CopyComplete
+C:\Users\igor\Documents\MEGA\Trabalho\Code\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.exe
+C:\Users\igor\Documents\MEGA\Trabalho\Code\IntegradorWoocommerce\obj\Debug\IntegradorWoocommerce.pdb
